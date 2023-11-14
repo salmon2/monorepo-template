@@ -1,5 +1,5 @@
 {
-  "name": "@mts5/sample",
+  "name": "@kinam/sample",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mts5/share": "workspace:^",
+    "@kinam/share": "workspace:^",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18",
@@ -20,6 +20,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "babel-plugin-styled-components": "^2.1.4",
     "eslint": "^8",
     "eslint-config-next": "14.0.2",
     "postcss": "^8",

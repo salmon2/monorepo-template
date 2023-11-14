@@ -5,8 +5,8 @@
     "packages/**/*"
   ],
   "scripts": {
-    "share": "yarn workspace @mts5/share",
-    "sample": "yarn workspace @mts5/sample"
+    "share": "yarn workspace @kinam/share",
+    "sample": "yarn workspace @kinam/sample"
   },
   "devDependencies": {
     "@types/node": "^20.9.0",
