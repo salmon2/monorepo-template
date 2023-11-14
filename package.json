@@ -1,0 +1,11 @@
+{
+  "name": "yarn3-kinam-mono",
+  "packageManager": "yarn@4.0.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
