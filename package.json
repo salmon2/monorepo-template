@@ -8,8 +8,8 @@
   ],
   "scripts": {
     "share": "yarn workspace @kinam/share",
-    "sample": "yarn workspace @kinam/sample",
-    "sample dev": "yarn share run clean && yarn sample run dev"
+    "share-story": "yarn workspace share-storybook",
+    "sample": "yarn workspace @kinam/sample"
   },
   "devDependencies": {
     "@types/node": "^20.9.0",
