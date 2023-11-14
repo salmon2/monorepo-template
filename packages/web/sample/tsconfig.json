@@ -16,7 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["*"],
-      "@kinam/share": ["../../../packages/shared/share/src"]
+      "@kinam/share/*": ["../../../packages/shared/share/src/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

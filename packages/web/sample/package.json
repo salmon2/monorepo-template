@@ -1,6 +1,7 @@
 {
   "name": "@kinam/sample",
   "version": "0.1.0",
+  "packageManager": "yarn@4.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
